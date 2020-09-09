@@ -51,5 +51,3 @@ const PORT = 8000;
 app.listen(PORT, () => {
   console.log(`Server listening at http://localhost:${PORT}`);
 });
-
-// 6db15672-f2c0-11ea-adc1-0242ac120002
